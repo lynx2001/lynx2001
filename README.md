@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-### 잘할려고 하기보다는 꾸준한 개발자
+### 잘하려고 하기보다는 꾸준한 개발자
 
 ## Education
 - 경북대학교 컴퓨터학부 재학 (2021~)  
