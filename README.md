@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 ## Projects
 
+### 청년 농부를 위한 Community
+
 ### Java Swing을 활용한 Game
 
 ### 대학 로컬 맛집 페이지
